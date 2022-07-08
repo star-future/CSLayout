@@ -127,10 +127,10 @@
  ## 阴影长度按最大阴影大小绘制 通过调整绘制区域控制各边的阴影长度 
  所以要设置阴影需要先设置裁切大小
   
-  cs_clip >= cs_shadow_size
-  cs_clip_left >= cs_shadow_size_left
-  cs_clip_top >= cs_shadow_size_top
-  cs_clip_right >= cs_shadow_size_right
+  cs_clip >= cs_shadow_size   
+  cs_clip_left >= cs_shadow_size_left   
+  cs_clip_top >= cs_shadow_size_top   
+  cs_clip_right >= cs_shadow_size_right   
   cs_clip_bottom >= cs_shadow_size_bottom
   
 # [LICENSE](/LICENSE)  
